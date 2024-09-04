@@ -1,5 +1,8 @@
 body{
     background-color: rgb(231, 208, 179);
-    font-family: "SUSE", system-ui;
-    
+    font-family: "Dancing script ", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
     }
